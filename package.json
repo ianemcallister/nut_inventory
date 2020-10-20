@@ -1,0 +1,23 @@
+{
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "nut inventory",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianemcallister/nut_inventory.git"
+  },
+  "author": "Ian McAllister",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianemcallister/nut_inventory/issues"
+  },
+  "homepage": "https://github.com/ianemcallister/nut_inventory#readme",
+  "dependencies": {
+    "square-connect": "^4.20200923.4"
+  }
+}
